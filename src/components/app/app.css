@@ -1,0 +1,11 @@
+.align-text-center{
+    justify-content: center;
+}
+.c-grey{
+    color: grey;
+    font-weight: 200;
+}
+.nav {
+    border-bottom: 0.5px solid silver;
+    background-color: #F1F3F6;
+}
