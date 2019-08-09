@@ -1,10 +1,10 @@
-##First of all
-##`npm install`
+## First of all
+## `npm install`
 _________________________________________
 In the project are using a json server
-###To initialize it you need to implemet
-###`npm i -g json-server`
-###`in current folder json-server --watch db.json --port 3001
+### To initialize it you need to implemet
+### `npm i -g json-server`
+### `in current folder json-server --watch db.json --port 3001
 
 
 ## Available Scripts
