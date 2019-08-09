@@ -4,7 +4,7 @@ _________________________________________
 In the project are using a json server
 ### To initialize it you need to implemet
 ### `npm i -g json-server`
-### `PC:pagination-test-task  json-server --watch db.json --port 3001
+### ` json-server --watch db.json --port 3001
 
 
 ## Available Scripts
